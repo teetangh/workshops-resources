@@ -1,0 +1,6 @@
+# MIST AI Projects and acknowledgements 
+# Pradhyuman Yadav 
+# Can do projects on Java, python, C and JavaScript. 
+# Project done none. 
+# Progress is Machine Learning by Andrew Ng
+# Projects interested are a full AI powered Operating System and Real Time speech Driven Face Animation or IBM DeepLocker

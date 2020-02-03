@@ -1,0 +1,4 @@
+Krithika Ramesh
+Languages: C, C++, Java
+Doing the Andrew Ng Machine Learning course (week 7)
+Projects interested in: Image generation, reinforcement learning (bipedal robot control),environment simulations 

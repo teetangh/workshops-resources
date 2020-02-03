@@ -1,0 +1,14 @@
+Currently, I'm learning Python through a MOOC on Udemy. I have only understood the basics yet, such as the syntax and how to utilise lists and tuples. 
+
+
+A project I found out about was Scapy (https://scapy.net)
+Scapy is a software that allows the user to decode the packets of data transferred across the network. As  result, it allows one to oversee the network 
+and understand what communication is taking place.	
+
+Another project I thought of that utilises AI, was the development of a basic chat bot. Through the use of AI to create a program that can discern,
+and choose a reply to a given statement by itself. Using chat histories and pieces of conversation from day to day life, it may be possible to 
+allow the program to observe a pattern in conversation, hence allowing it to make better choices after each run.
+
+Lastly, another project that I thought could implement AI was, using it to develop a program that can play through simple games like Pacman or
+Minesweeper, where the procedure is relatively the same for each iteration and hence AI might be able to continually get better at such problems by 
+repetitive practice.
