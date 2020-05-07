@@ -1,0 +1,8 @@
+conda install -c anaconda spyder                                                                                            
+conda install -c anaconda numpy
+conda install -c anaconda matplotlib
+conda install -c anaconda pandas
+conda install -c anaconda scipy
+conda install -c anaconda pillow
+conda install -c anaconda tensorflow
+conda install -c anaconda keras                                                                                                                                                     
